@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Dennis (@theGeniusDennis)
+# 👋 Hi, I’m Dennis 
 
 I'm passionate about integrating innovative technologies into the field of software engineering, and I'm currently diving deep into the world of web3 development. I have a strong foundation in web development, mobile app development, and software engineering, and I'm excited to bring these skills into the decentralized world.
 
